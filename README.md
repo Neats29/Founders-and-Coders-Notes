@@ -19,6 +19,6 @@ sudo chown -R 'whoami' [directory]
 In the future it would help to try and figure out the error rather than giving in to using sudo. 
 
 ## More info:
-*[Stack Overflow](http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo/16151707#16151707)
+[Stack Overflow](http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo/16151707#16151707)
 
-*[Nelsonic](https://github.com/nelsonic)
+[Nelsonic](https://github.com/nelsonic)
