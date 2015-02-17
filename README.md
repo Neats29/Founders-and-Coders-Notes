@@ -14,7 +14,7 @@ If you have installed something using *sudo*, you may want to reclaim ownership 
 sudo chown -R 'whoami' [directory]
 ```
 ...replacing the 'whoami' with your username.
-npm example for [directory]: ~/.npm
+*npm example for [directory] ----> ~/.npm
 
 In the future it would help to try and figure out the error rather than giving in to using sudo. 
 
