@@ -11,9 +11,8 @@ Doing this will give the app/module access to all your files, which is a privacy
 
 If you have installed something using *sudo*, you may want to reclaim ownership of your directory. To do this you need to run the following command:
 ```
-sudo chown -R 'whoami' [directory]
+sudo chown -R username [directory]
 ```
-...replacing the 'whoami' with your username.
 
 * npm example for [directory] ----> ~/.npm
 
