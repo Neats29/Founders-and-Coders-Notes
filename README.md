@@ -25,17 +25,17 @@ In the future it would help to try and figure out the error rather than giving i
 
 
 --------
-
+## General JS info:
 A useful link to a wide range of JavaScript resources - Specially the *Reading* section:
 [JS: The Right Way](http://jstherightway.org/#reading)
 
 --------
-
+## Node.js
 A useful link to get started on making a server in [Node.js](http://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-with-node-js-part-ii/)
 
 
 --------
-
+## React.js
 A basic beginners tutorial for [React.js](https://scotch.io/tutorials/learning-react-getting-started-and-concepts):
 
 
