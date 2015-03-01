@@ -36,7 +36,7 @@ A useful link to get started on making a server in [Node.js](http://blog.kevinch
 
 --------
 ### React.js
-A basic beginners tutorial for [React.js](https://scotch.io/tutorials/learning-react-getting-started-and-concepts):
+A basic beginners tutorial for [React.js](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 
 
 -------
