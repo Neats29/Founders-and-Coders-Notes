@@ -24,4 +24,19 @@ In the future it would help to try and figure out the error rather than giving i
 [Nelsonic](https://github.com/nelsonic)
 
 
-------------
+--------
+
+A useful link to a wide range of JavaScript resources - Specially the *Reading* section:
+[JS: The Right Way](http://jstherightway.org/#reading)
+
+--------
+
+A useful link to get started on making a server in Node.js:
+http://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-with-node-js-part-ii/
+
+--------
+
+A basic beginners tutorial for [React.js](http://facebook.github.io/react/):
+https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+
+-------
