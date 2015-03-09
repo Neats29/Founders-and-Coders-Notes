@@ -62,7 +62,11 @@ IF you want to use a repo on github to then add to it without eventually pushing
 3. cd into the parent repo and run the command:
 
 ```
-git push --mirror https://github.com/USER/CHILD-REPO.git //mirroring only duplicates the repo but you are still connected to the parent, if you want to be separate from it do:
+git push --mirror https://github.com/USER/CHILD-REPO.git 
+```
+Mirroring only duplicates the repo but you are still connected to the parent, if you want to be separate from it do:
+```
 git remote set-url origin https://github.com/USER/CHILD-REPO.git
 ```
+
 Now you can start working in the child repo. (This technique is useful for using starter kits to build your project on top of).
