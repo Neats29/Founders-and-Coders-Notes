@@ -35,7 +35,7 @@ A useful link to get started on making a server in [Node.js](http://blog.kevinch
 
 
 --------
-To run a quick server:
+### To run a quick server:
 
 ```
 npm install node-http-server
