@@ -40,3 +40,14 @@ A basic beginners tutorial for [React.js](https://scotch.io/tutorials/learning-r
 
 
 -------
+### Alternative to forking
+
+IF you want to use a repo on github to then add to it without eventually pushing to it (as you would when you fork), then you have do the following: 
+1. create an empty repo 
+2. clone the repo you want to copy (let's call this the parent repo)
+3. cd into the parent repo and run the command:
+```
+git push --mirror https://github.com/USER/CHILD-REPO.git
+
+```
+Now you can start working in the child repo. (This technique is useful for using starter kits to build your project on top of).
