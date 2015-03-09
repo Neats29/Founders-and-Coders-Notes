@@ -35,6 +35,19 @@ A useful link to get started on making a server in [Node.js](http://blog.kevinch
 
 
 --------
+To run a quick server:
+
+```
+npm install node-http-server
+```
+Then when you need to run server run the following command:
+
+```
+http-server -p <port number>
+```
+
+--------
+
 ### React.js
 A basic beginners tutorial for [React.js](https://scotch.io/tutorials/learning-react-getting-started-and-concepts), a front-end JavaScript library made by facebook.
 
