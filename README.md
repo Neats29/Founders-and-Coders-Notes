@@ -57,7 +57,7 @@ A basic beginners tutorial for [React.js](https://scotch.io/tutorials/learning-r
 
 IF you want to use a repo on github to then add to it without eventually pushing to it (as you would when you fork), then you have do the following: 
 
-1. create an empty repo 
+1. create an empty repo on github
 2. clone the repo you want to copy (let's call this the parent repo)
 3. cd into the parent repo and run the command:
 
