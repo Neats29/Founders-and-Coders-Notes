@@ -30,6 +30,11 @@ A useful link to a wide range of JavaScript resources - Specially the *Reading* 
 [JS: The Right Way](http://jstherightway.org/#reading)
 
 --------
+### reduce and map methods:
+a helpful video to learn the reduce and map methods in JavaScript:
+https://www.youtube.com/watch?v=t4MOEfpsC60
+------
+
 ### Node.js
 A useful link to get started on making a server in [Node.js](http://blog.kevinchisholm.com/javascript/node-js/making-a-simple-http-server-with-node-js-part-ii/)
 
