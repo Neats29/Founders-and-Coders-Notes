@@ -1,7 +1,7 @@
 #### Some lessons and tips I've learnt so far at Founders & Coders from the amazing mentors and the holy internet.
 
 --------
-### Git workflow
+## Git workflow
 [This](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) is a useful git tutorial by Atlassian.
 
 --------
@@ -29,12 +29,12 @@ In the future it would help to try and figure out the error rather than giving i
 
 
 --------
-### General JS info:
+### General JS info
 A useful link to a wide range of JavaScript resources - Specially the *Reading* section:
 [JS: The Right Way](http://jstherightway.org/#reading)
 
 --------
-### Reduce and Map methods:
+### Reduce and Map methods
 A helpful video to learn the reduce and map methods in JavaScript:
 * https://www.youtube.com/watch?v=t4MOEfpsC60
 
@@ -45,7 +45,7 @@ A useful link to get started on making a server in [Node.js](http://blog.kevinch
 
 
 --------
-### To run a quick server:
+### To run a quick server
 
 ```
 npm install node-http-server
