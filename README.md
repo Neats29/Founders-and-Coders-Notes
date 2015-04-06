@@ -1,6 +1,10 @@
 #### Some lessons and tips I've learnt so far at Founders & Coders from the amazing mentors and the holy internet.
 
+--------
+### Git workflow
+[This](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) is a useful git tutorial by Atlassian.
 
+--------
 ## sudo! Super User Do
 
 When you try to install applications, modules etc, you sometimes get asked to use the following example command
