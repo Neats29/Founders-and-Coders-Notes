@@ -2,7 +2,7 @@
 
 --------
 ## Git workflow
-[This](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) is a useful git tutorial by Atlassian.
+[This](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) is a helpful git tutorial by Atlassian.
 
 --------
 ## sudo! Super User Do
