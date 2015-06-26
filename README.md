@@ -1,4 +1,4 @@
-#### Some lessons and tips I've learnt so far at Founders & Coders from the amazing mentors and the holy internet.
+#### Some lessons and tips I've learnt so far at Founders & Coders
 
 --------
 ## Git workflow
@@ -24,8 +24,6 @@ In the future it would help to try and figure out the error rather than giving i
 
 ### More info:
 [Stack Overflow](http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo/16151707#16151707)
-
-[Nelsonic](https://github.com/nelsonic)
 
 
 --------
